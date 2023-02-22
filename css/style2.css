@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+  } 
+body {
+      margin: 0%;
+      padding: 0;
+      background-color: rgb(57, 95, 117);
+  }
+.container{
+    height: 10vh;
+    width: 100%;
+  }
+.hola{
+    width: 100%;
+    text-align: center;
+}
+  li{
+    font-size: 2vh;
+  }
+  .btn{
+    border-color: aliceblue;
+   color: aliceblue;
+  }
+  h1{
+    color: aliceblue;
+    height: 10vh;
+  }
